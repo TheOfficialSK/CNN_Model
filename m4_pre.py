@@ -1,11 +1,3 @@
-#    name: pa2pre.py
-# purpose: Student's add code to preprocessing of the data
-
-# Recall that any preprocessing you do on your training
-# data, you must also do on any future data you want to
-# predict.  This file allows you to perform any
-# preprocessing you need on my undisclosed test data
-
 import numpy as np
 from keras import utils
 from keras.preprocessing.image import ImageDataGenerator
